@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jun 2025 18:27:33 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Pertama Saya</title>
+      <link>http://localhost:1313/posts/post-pertama-saya/</link>
+      <pubDate>Sun, 22 Jun 2025 18:27:33 +0700</pubDate>
+      <guid>http://localhost:1313/posts/post-pertama-saya/</guid>
+      <description>&lt;h1 id=&#34;selamat-datang-di-dunia-fantasy&#34;&gt;Selamat Datang di Dunia fantasy!&lt;/h1&gt;&#xA;&lt;p&gt;Ini adalah &lt;strong&gt;postingan pertama&lt;/strong&gt; di blog yang baru kita buat ini.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
